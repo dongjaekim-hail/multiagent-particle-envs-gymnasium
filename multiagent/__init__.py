@@ -1,7 +1,7 @@
 import os
 import warnings
 
-from gym.envs.registration import register
+from gymnasium.envs.registration import register
 
 # Multiagent envs
 # ----------------------------------------

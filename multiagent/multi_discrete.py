@@ -3,8 +3,8 @@
 
 import numpy as np
 
-import gym
-from gym.spaces import prng
+import gymnasium as gym
+from gymnasium.spaces import prng
 
 class MultiDiscrete(gym.Space):
     """
